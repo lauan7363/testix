@@ -1,37 +1,9 @@
 const help = (prefix) => {
 	return `🔰--[ *BOT SADSTATION* ]--🔰
  
- ✧͢⃟ᤢ🌸ŠΔ̸Đ᭨ŠŤΔ̸ŤIΩN⋆⃟ۣۜ🎡
-░░░░░▀▄░▄▀░░░░░​
-​░​​​░░◢███████◣░░░​
-​░​​​​​░◢██▀███▀██◣░░​
-​​​░░​███████████░░​ 
-░░​▅▅▅▅▅▅▅▅▅▅▅░░​
-◢█​█▀███████▀██◣ 
-​███▀███████▀███
-███▀███████▀███ ​
-███▀███████▀███ 
-███▀███████▀███ ​
-◥◤█▀███████▀█◥◤
-​░​░██▀█████▀██░░​
-​░░​◥█████████◤░​░​
-​░░░◥███████◤░░░​
-​░​░░░​███░███░​░░░​
-​​░░░░​███░​███░░░​░​
-​░░​░░◥█◤░◥█◤░░​░​░
-   ✧͢⃟ᤢ🌸ŠΔ̸Đ᭨ŠŤΔ̸ŤIΩN⋆⃟ۣۜ🎡
-    
+           🔥🍿ꦿ⃟꙰͢ 𝑪𝑯𝚯𝑷𝑷𝜟̷↯⃬༆⁶²⁶🍿🔥
 ◆ ▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬ ◆
-࿗᭄ PROPRIETÁRIO : *TIO WILL*
-࿗᭄ INSTAGRAM: @putswill
-࿗᭄ ATIVO : *08:00-22:00 WIB*
-࿗᭄ PREFIX : 「 ${prefix} 」
-࿗᭄ VERSÃO : 1.1
-࿗᭄ CRIADOR: wa.me/+5516991541171
-࿗᭄ CANAL: https://youtube.com/c/willtipografias
-࿗᭄ MEU GRUPO: https://chat.whatsapp.com/IXX8rnNjDzFCuuDcpMdloQ
-࿗᭄ SE FOR COPIAR DEIXA OS DIREITOS AUTORAIS DO TIO WILL
-◆ ▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬ ◆
+࿗᭄ PROPRIETÁRIO : *ᬊ͜͡⛧͜ᬏ᭄𝒍𝒂𝒖𝒂𝒏-𝒎𝒐𝒅𝒆𝒓𝒏𝒐ᬊ͜͡⛧͜ᬏ᭄ᬊ͜͡*
 
                  ❍ 𝚂𝙾𝙱𝚁𝙴
   ✦┅┅┅┅ೋೋ┅┅┅┅✦
@@ -90,7 +62,7 @@ const help = (prefix) => {
   ✦┅┅┅┅ೋೋ┅┅┅┅✦
           ❍ 𝙵𝙰𝙻𝙰𝙻𝙰𝚁 𝙲𝙾𝙼 𝙱𝙾𝚃
   ✦┅┅┅┅ೋೋ┅┅┅┅✦
-  ║➩ ❍ ${prefix}chatwill
+  ║➩ ❍ ${prefix}chatw
   ║➩ ❍ ${prefix}whatday
   ║➩ ❍ ${prefix}avalie
   ║➩ ❍ ${prefix}chatpode
@@ -174,8 +146,8 @@ const help = (prefix) => {
   ✦┅┅┅┅ೋೋ┅┅┅┅✦
 
 ✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
- ⟪ CRIADO POR  *TIO WILL* ⟫
-                           *@PUTSWILL* 
+ ⟪ CRIADO POR  *ᬊ͜͡⛧͜ᬏ᭄𝒍𝒂𝒖𝒂𝒏-𝒎𝒐𝒅𝒆𝒓𝒏𝒐ᬊ͜͡⛧͜ᬏ᭄ᬊ͜͡* ⟫
+                           
 ✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
 
